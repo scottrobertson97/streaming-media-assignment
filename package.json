@@ -1,15 +1,15 @@
 {
   "name": "streaming-media-assignment",
   "version": "1.0.0",
-	"engines":{
-		"node": "10.9.0",
-		"npm": "6.2.0"
-	},
+  "engines": {
+    "node": "10.9.0",
+    "npm": "6.2.0"
+  },
   "description": "",
   "main": "./src/server.js",
   "scripts": {
-		"start": "node ./src/server.js",
-		"pretest": "eslint ./src --fix",
+    "start": "node ./src/server.js",
+    "pretest": "eslint ./src --fix",
     "test": "echo \"Tests complete\""
   },
   "repository": {
